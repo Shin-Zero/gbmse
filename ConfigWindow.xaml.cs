@@ -1,8 +1,8 @@
 ﻿/*
  * Created by SharpDevelop.
  * User: locbrag
- * Date: 16.02.2016
- * Time: 9:18
+ * Date: 19.02.2016
+ * Time: 11:13
  * 
  * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
@@ -19,14 +19,13 @@ using System.Windows.Media;
 namespace Zero_DB_Explorer
 {
 	/// <summary>
-	/// Interaction logic for Window1.xaml
+	/// Interaction logic for ConfigWindow.xaml
 	/// </summary>
-	public partial class Window1 : Window
+	public partial class ConfigWindow : Window
 	{
-		public Window1()
+		public ConfigWindow()
 		{
 			InitializeComponent();
-			this.DataContext = new MainWindowViewModel();
 		}
 	}
 }
