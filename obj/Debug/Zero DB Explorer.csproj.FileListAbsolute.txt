@@ -1,0 +1,11 @@
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Zero DB Explorer.csprojResolveAssemblyReference.cache
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\App.g.cs
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Zero DB Explorer_MarkupCompile.cache
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Window1.baml
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Window1.g.cs
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Zero DB Explorer.g.resources
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\bin\Debug\Zero DB Explorer.exe.config
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\bin\Debug\Zero DB Explorer.exe
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\bin\Debug\Zero DB Explorer.pdb
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Zero DB Explorer.exe
+C:\Users\locbrag\Documents\SharpDevelop Projects\Zero DB Explorer\obj\Debug\Zero DB Explorer.pdb
